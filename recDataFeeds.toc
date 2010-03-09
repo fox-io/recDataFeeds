@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: recDataFeeds
+## Notes: Data feeds for various things.
+## Author: Recluse
+## Dependencies: recMedia, recLib
+## Version: $Id: recDataFeeds.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+core.lua
+modules\bagspace.lua
+modules\clock.lua
+modules\durability.lua
+modules\experience.lua
+modules\framerate.lua
+modules\social.lua
+modules\latency.lua
+modules\lfg.lua
+modules\mail.lua
+modules\memory.lua
+modules\money.lua
+modules\pvp.lua
+modules\reputation.lua
